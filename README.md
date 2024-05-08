@@ -1,3 +1,10 @@
+
+
+![Screenshot 2024-05-08 152020](https://github.com/airan04/Calculator/assets/85561210/ba5f1494-3267-4bbe-be0e-f81fbc772f9d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
